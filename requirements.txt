@@ -1,0 +1,15 @@
+# Visualization
+plotly
+dash
+dash-bootstrap-components
+
+# Data Analysis
+pandas
+numpy
+# TA-lib
+
+# Database and data sources
+sqlite3
+yfinance
+
+
