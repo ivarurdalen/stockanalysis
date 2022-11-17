@@ -1,4 +1,5 @@
 TA_Lib*
+*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
